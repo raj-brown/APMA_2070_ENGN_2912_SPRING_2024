@@ -1,4 +1,4 @@
-# APMA-2070 and ENGN 2912: Deep Learning for Scientistis and Engineers
+# APMA-2070 and ENGN 2912V: Deep Learning for Scientistis and Engineers
 
 The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
 
