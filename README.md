@@ -44,7 +44,7 @@ Please read through this
 
 **Lecture 1 : Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0)  
 [No Homework]()   
-
+<!--
 **Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/1/2023, 11:59 PM ET
 
@@ -145,4 +145,4 @@ Monday 3:00 - 5:30 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 7. **Materials**
    * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
    * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
-
+-->
