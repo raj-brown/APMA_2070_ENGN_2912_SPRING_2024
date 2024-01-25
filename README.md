@@ -45,7 +45,7 @@ Please read through this
 **Lecture 1 : Introduction** [Slides: (Jan 29,2024)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0)  
 [Homework\_L1]()   
 
-**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
+<!--**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/1/2023, 11:59 PM ET
 <!--
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
