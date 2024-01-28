@@ -43,7 +43,7 @@ Please read through this
 ## Module I: Basics 
 
 **Lecture 1 : Introduction** [Slides: (Jan 29,2024)](https://www.dropbox.com/scl/fi/rzyza1r7folp7rkcwo9hg/Lecture_01_Introduction.pptx?rlkey=hu5um9r6pmpyeo0i0ej863u1h&dl=0)  
-[Homework\_L1](HW_L1.pdf) Due Date: 2/1/2023, 11:59 PM ET
+[Homework\_L1](HW_L1.pdf) Due Date: 2/12/2024, 11:59 PM ET
 
 
 <!--**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
