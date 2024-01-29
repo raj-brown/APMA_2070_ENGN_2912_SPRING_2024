@@ -49,7 +49,7 @@ Please read through this
 [Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/12/2024, 11:59 PM ET
 
 
-<**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
+**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/18/2024, 11:59 PM ET
 <!--
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
