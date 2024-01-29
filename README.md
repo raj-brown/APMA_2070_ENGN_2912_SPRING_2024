@@ -33,6 +33,9 @@ Please read through this
 
 * [<span style="color:blue"> <em>Conceptual Programming with Python by Thorsten Altenkirch and Isaac Triguero</em> </span>](https://www.google.com/books/edition/Conceptual_Programming_with_Python/nUO0DwAAQBAJ?hl=en&gbpv=1&dq=conceptual+programming+with+python&printsec=frontcover)
 
+* [<span style="color:blue"> <em>A Student's Guide to Bayesian Statistics by B Lambert  </em> </span>](https://www.torrossa.com/en/resources/an/5017731)
+
+* [<span style="color:blue"> <em>Reinforcement learning: An Introduction, 2nd edition by Richard S Sutton and Andrew G Barto</em> </span>](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=6m4wv6gAAAAJ&citation_for_view=6m4wv6gAAAAJ:IWHjjKOFINEC)
 
 
 **Learning curve**
@@ -43,11 +46,11 @@ Please read through this
 ## Module I: Basics 
 
 **Lecture 1 : Introduction** [Slides: (Jan 29,2024)](https://www.dropbox.com/scl/fi/rzyza1r7folp7rkcwo9hg/Lecture_01_Introduction.pptx?rlkey=hu5um9r6pmpyeo0i0ej863u1h&dl=0)  
-[Homework\_L1](HW_L1.pdf) Due Date: 2/12/2024, 11:59 PM ET
+[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/12/2024, 11:59 PM ET
 
 
-<!--**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
-[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/1/2023, 11:59 PM ET
+<**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
+[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/18/2024, 11:59 PM ET
 <!--
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/01/2023, 11:59 PM ET
