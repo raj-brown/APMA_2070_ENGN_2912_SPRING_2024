@@ -62,7 +62,7 @@ Providence RI 02906
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/18/2024, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 5, 2024)](https://www.dropbox.com/scl/fi/1bpqfspvwwwh8gf6jddms/Lecture_03_Deep_Neural_Networks.pptx?rlkey=1sxh6oz5490pplx73jqy8bb0c&dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
-<!--[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/01/2023, 11:59 PM ET
+<[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/03/2024, 11:59 PM ET
 
 <!--
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 8, Feb 15, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
