@@ -42,6 +42,15 @@ Please read through this
 ![Learning curve](images/learning_curve.png?raw=true "Title") 
 
 
+## Office Hours
+Every Friday 2:30 PM - 5.00 PM
+Room No: 118
+1st Floor,  Division of Applied Mathematics
+170 Hope St,
+Providence RI 02906
+
+
+
 
 ## Module I: Basics 
 
