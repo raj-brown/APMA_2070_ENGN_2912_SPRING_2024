@@ -1,0 +1,11 @@
+digraph ex2 {
+	"*" [label="*"]
+	"+" [label="+"]
+	8 [label=8]
+	y [label=y]
+	x [label=x]
+	"+" -> "*"
+	"+" -> x
+	"*" -> 8
+	"*" -> y
+}
