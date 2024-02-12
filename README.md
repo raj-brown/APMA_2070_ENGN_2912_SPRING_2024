@@ -55,11 +55,11 @@ Providence RI 02906
 ## Module I: Basics 
 
 **Lecture 1 : Introduction** [Slides: (Jan 29,2024)](https://www.dropbox.com/scl/fi/rzyza1r7folp7rkcwo9hg/Lecture_01_Introduction.pptx?rlkey=hu5um9r6pmpyeo0i0ej863u1h&dl=0)  
-[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/12/2024, 11:59 PM ET
+[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/15/2024, 11:59 PM ET
 
 
 **Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
-[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/18/2024, 11:59 PM ET
+[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2024, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 5, Feb 12, 2024)](https://www.dropbox.com/scl/fi/1bpqfspvwwwh8gf6jddms/Lecture_03_Deep_Neural_Networks.pptx?rlkey=1sxh6oz5490pplx73jqy8bb0c&dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/03/2024, 11:59 PM ET
