@@ -66,11 +66,11 @@ Providence RI 02906
 
 
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 12, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
-<!--[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/19/2023, 11:59 PM ET
+<!--[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/19/2023, 11:59 PM ET-->
 
 
-**Lecture 5: Training and Optimization** [Slides: (Feb 15, Feb 22, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/learning_rate_scheduler.ipynb)  
-[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 4/30/2023, 11:59 PM ET
+**Lecture 5: Training and Optimization** [Slides: (Feb 26, Feb 22, 2024)]() [Jupyter\_Notebook]()  
+<!--[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 4/30/2023, 11:59 PM ET
 
 
 **Lecture 6: Neural Network Architectures** [Slides: (Feb 22, March 1, 2023)](https://www.dropbox.com/s/nen0yfkqmtptwl8/Lecture_06_NN_Architectures.pptx?dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
