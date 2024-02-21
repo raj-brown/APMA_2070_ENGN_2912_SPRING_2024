@@ -97,7 +97,7 @@ Providence RI 02906
 <!--[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/19/2023, 11:59 PM ET-->
 
 
-**Lecture 5: Training and Optimization** [Slides: (Feb 26, 2024)]() [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
+**Lecture 5: Training and Optimization** [Slides: (Feb 26, 2024)](https://www.dropbox.com/scl/fi/lqwo41jufrvzyxut8xxeu/Lecture_05_Training_and_Optimization.pptx?rlkey=s2qndvzztvx4hk9d6a8s35gn4&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
 <!--[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 4/30/2023, 11:59 PM ET
 
 
