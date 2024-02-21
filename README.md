@@ -21,7 +21,7 @@ Please read through this
 # Office Hours  
 Prof. George Em Karniadakis: Wednesday: 3.00 PM - 5.30 PM  
 Room No: 304  
-1st Floor, Division of Applied Mathematics   
+Division of Applied Mathematics   
 170 Hope St   
 Providence RI 02906   
 Email: <george_karniadakis@brown.edu>  
@@ -29,7 +29,7 @@ Email: <george_karniadakis@brown.edu>
 
 Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
 Room No: 308    
-1st Floor, Division of Applied Mathematics     
+Division of Applied Mathematics     
 170 Hope St  
 Providence RI 02906   
 Email: <khemraj_shukla@brown.edu>    
