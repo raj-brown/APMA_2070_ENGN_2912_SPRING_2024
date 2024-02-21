@@ -20,8 +20,11 @@ Please read through this
 
 
 # TAs
+Aniruddha Bora  
+Email: <aniruddha_bora@brown.edu>  
+
 Nazanin Ahmadi  
-email: <mailto:user@example.com>
+Email: <nazanin_ahmadi_daryakenari@brown.edu>
 
 
 
