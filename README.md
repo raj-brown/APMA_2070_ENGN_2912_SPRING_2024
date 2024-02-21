@@ -18,6 +18,25 @@ Please read through this
 1. [Prof. George Em Karniadakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en&oi=ao)
 2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
 
+# Office Hours  
+Prof. George Em Karniadakis: Wednesday: 3.00 PM - 5.30 PM  
+Room No: 304  
+1st Floor, Division of Applied Mathematics   
+170 Hope St   
+Providence RI 02906   
+Email: <george_karniadakis@brown.edu>  
+
+
+Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
+Room No: 308    
+1st Floor, Division of Applied Mathematics     
+170 Hope St  
+Providence RI 02906   
+Email: <khemraj_shukla@brown.edu>    
+
+
+
+
 
 # TAs
 Aniruddha Bora  
