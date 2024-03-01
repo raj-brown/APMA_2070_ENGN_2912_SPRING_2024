@@ -101,7 +101,7 @@ Providence RI 02906
 <!--[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 4/30/2023, 11:59 PM ET -->
 
 
-**Lecture 6: Neural Network Architectures** [Slides: (March 1, 2024)](https://www.dropbox.com/scl/fi/68nlavp3hox2z1bjtlu64/Lecture_06_NN_Architectures.pptx?rlkey=sfp31tv9yhl339cdbfptbu3ge&dl=0)[Narrated Lecture: (March 1, 2024)](https://www.dropbox.com/scl/fi/oi5p0dhs8s7qci234rpfp/Lecture-1.6-NN-Architectures.pptx?rlkey=so1n57mqauj09ofi2fikyh7f8&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
+**Lecture 6: Neural Network Architectures** [Slides: (March 1, 2024)](https://www.dropbox.com/scl/fi/68nlavp3hox2z1bjtlu64/Lecture_06_NN_Architectures.pptx?rlkey=sfp31tv9yhl339cdbfptbu3ge&dl=0) [Narrated Lecture: (March 1, 2024)](https://www.dropbox.com/scl/fi/oi5p0dhs8s7qci234rpfp/Lecture-1.6-NN-Architectures.pptx?rlkey=so1n57mqauj09ofi2fikyh7f8&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
 
 <!--[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/30/2023, 11:59 PM ET
   
