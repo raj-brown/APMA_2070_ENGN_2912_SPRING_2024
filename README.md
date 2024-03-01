@@ -147,7 +147,6 @@ Providence RI 02906
 [Project list](Project_list.pdf)
 
 
-<!--
 # Term Projects
 
 1. **Biomedicine**
@@ -185,4 +184,4 @@ Providence RI 02906
 7. **Materials**
    * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
    * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
--->
+
