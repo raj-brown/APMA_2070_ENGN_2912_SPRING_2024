@@ -142,11 +142,9 @@ Providence RI 02906
 1. **Multi-GPU Scientific Machine Learning** [Slides: (April 12, April 19, 2023)](https://www.dropbox.com/s/bv68sehg1yssg1w/Multi-GPU%20Scientific%20Machine%20Learning.pptx?dl=0) [Python Code](Advanced_Topics) [Slides: NVIDIA-MODULUS](https://www.dropbox.com/s/byyz6xc3g30q0yh/MODULUS_NVIDIA.pptx?dl=0)
 
 
+-->
 
-### Office hours  
-Monday 3:00 - 5:30 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
-
-# [Project list](Project_list.pdf)
+[Project list](Project_list.pdf)
 
 
 
@@ -187,4 +185,4 @@ Monday 3:00 - 5:30 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 7. **Materials**
    * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
    * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
--->
+
