@@ -94,7 +94,7 @@ Providence RI 02906
 
 
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 12, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
-<[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/22/2024, 11:59 PM ET-->
+<!--[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/22/2024, 11:59 PM ET-->
 
 
 **Lecture 5: Training and Optimization** [Slides: (Feb 26, 2024)](https://www.dropbox.com/scl/fi/lqwo41jufrvzyxut8xxeu/Lecture_05_Training_and_Optimization.pptx?rlkey=s2qndvzztvx4hk9d6a8s35gn4&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
