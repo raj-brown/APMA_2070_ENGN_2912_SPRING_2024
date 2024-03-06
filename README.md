@@ -93,7 +93,7 @@ Providence RI 02906
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2024, 11:59 PM ET
 
 
-**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 12, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
+**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 12, March 4, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/22/2024, 11:59 PM ET
 
 
