@@ -110,13 +110,13 @@ Providence RI 02906
 
 ## Module II: Neural Differential Equations
 
-**Lecture 7: Discovering Differential Equations** [Slides: (March 4, 2022)](https://www.dropbox.com/scl/fi/k93lf0wumyctjr4o3fz4l/Lecture-2.1a-Dynamical-systems.pptx?rlkey=9bsvnwg8aw6y1iyudj0wzwtg0&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
+**Lecture 7: Discovering Differential Equations** [Slides: (March 4, March 11, 2024)](https://www.dropbox.com/scl/fi/k93lf0wumyctjr4o3fz4l/Lecture-2.1a-Dynamical-systems.pptx?rlkey=9bsvnwg8aw6y1iyudj0wzwtg0&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
+
+
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 11, 2024)](https://www.dropbox.com/scl/fi/iuohff4j3r4nffrvj69cg/Lecture-2.2-pinns-I.pptx?rlkey=hw24bbkn6l52tc1w7snnojmy3&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
+
 
 <!--
-**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 15, March 22, 2023)](https://www.dropbox.com/s/5z9lgbfxj7cl3xq/Lecture_08_PINNs_I.pptx?dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
-
-
-
 **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (March 22, 2023)](https://www.dropbox.com/s/usmros72jyruwmg/Lecture_09_PINNs_II.pptx?dl=0) 
 
 
