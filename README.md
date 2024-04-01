@@ -116,10 +116,10 @@ Providence RI 02906
 **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 11, 2024)](https://www.dropbox.com/scl/fi/iuohff4j3r4nffrvj69cg/Lecture-2.2-pinns-I.pptx?rlkey=hw24bbkn6l52tc1w7snnojmy3&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
 
 
+
+**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (April 1, 2024)](https://www.dropbox.com/scl/fi/61cabi0hebfl0ol5jm4tf/Lecture-9-pinns-II.pptx?rlkey=6nr76u7kwcqmnv2ydueuqao8j&dl=0) 
+
 <!--
-**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (March 22, 2023)](https://www.dropbox.com/s/usmros72jyruwmg/Lecture_09_PINNs_II.pptx?dl=0) 
-
-
 ## Module III: Neural Operators
 
 **Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 5, 2023)](https://www.dropbox.com/s/jl4yjeao8jvxkm7/Lecture_10_DeepONet.pptx?dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
