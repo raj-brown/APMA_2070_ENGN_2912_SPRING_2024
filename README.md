@@ -129,24 +129,23 @@ Providence RI 02906
 
 **Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 5, 2023)](https://www.dropbox.com/s/jl4yjeao8jvxkm7/Lecture_10_DeepONet.pptx?dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
  [ADD\_ON:FOURIER\_REVIEW](https://www.dropbox.com/s/td0alw980o6kv6n/Lecture_10_Fourier_Add_on.pptx?dl=0) [Jupyter\_Notebook\_Fourier](Lecture_10_Notebook/fourier_example.ipynb)
+-->
 
-**Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 12, 2023)](https://www.dropbox.com/s/c9reg4t51vnucr9/Lecture_11_implementation_PINNS_DeepXDE.pptx?dl=0) [Video](https://www.dropbox.com/s/7djuy296vqs0hbx/Lecture_11_DeepXDE.mp4?dl=0) [Jupyter\_Notebook](Lecture_11_Notebook/deepXde.ipynb) [DATA\_FOR\_DEEPONET](https://www.dropbox.com/sh/dkmn84nccqcbuts/AAC9gunsRcCzfv4ETrTm56cWa?dl=0)
+**Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 8, 2024)](https://www.dropbox.com/s/c9reg4t51vnucr9/Lecture_11_implementation_PINNS_DeepXDE.pptx?dl=0) [Video](https://www.dropbox.com/s/7djuy296vqs0hbx/Lecture_11_DeepXDE.mp4?dl=0) [Jupyter\_Notebook](Lecture_11_Notebook/deepXde.ipynb) [DATA\_FOR\_DEEPONET](https://www.dropbox.com/sh/dkmn84nccqcbuts/AAC9gunsRcCzfv4ETrTm56cWa?dl=0)
 
-
+<!--
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
 
 **Lecture 12: Machine Learning using Multi-Fidelity Data** [Slides: (April 19, April 26, 2023)](https://www.dropbox.com/s/0lq9w00zzz57p22/Lecture_12_Multi-fidelity_GK.pptx?dl=0) [Jupyter\_Notebook](Lecture_12_Notebook/multi_fidelity_notbook.ipynb)
 
 **Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning** [Slides: (April 26, May 3, 2023)](https://www.dropbox.com/scl/fi/ibyb1baqgs3dph1jt79hy/Lecture_13_UQ.pptx?dl=0&rlkey=9eiwy8r28ekndwfih55qntmuj) [Jupyter\_Notebook](Lecture_13_Notebook/neural_uq.ipynb) [Slides: Neural\_UQ](https://www.dropbox.com/s/04kvh4d4vtpadz6/Lecture_12_ADD_ON_NeuralUQ.pptx?dl=0) [Neural\_UQ\_PT\_MODEL](https://www.dropbox.com/sh/8mzjvr3dj5j2u1e/AAAUEi6sCxZyRpdhMzoJXLBia?dl=0) [DATA\_Neural\_UQ](https://www.dropbox.com/sh/8913w72bkjvmia9/AACpQJdl4-_LUQNUmmRjcg6Fa?dl=0)
-
-
+-->
 
 ## Advanced Topics
 
-1. **Multi-GPU Scientific Machine Learning** [Slides: (April 12, April 19, 2023)](https://www.dropbox.com/s/bv68sehg1yssg1w/Multi-GPU%20Scientific%20Machine%20Learning.pptx?dl=0) [Python Code](Advanced_Topics) [Slides: NVIDIA-MODULUS](https://www.dropbox.com/s/byyz6xc3g30q0yh/MODULUS_NVIDIA.pptx?dl=0)
+1. **Multi-GPU Scientific Machine Learning** [Slides: (April 8, April 15, 2024)](https://www.dropbox.com/scl/fi/79tjobb4tft6n8i88tyc0/Lecture_11_MULTI-GPU_SCIML.pptx?rlkey=hqv8t9c7jg4iaya1874u1s1ky&dl=0) [Python Code](Advanced_Topics) [Slides:NCCL](https://www.dropbox.com/scl/fi/5xdqa4fn90l95m2luobly/Lecture_11_NCCL.pdf?rlkey=v1f9emhdoa4extrnc45k1qq38&dl=0)[Slides: NVIDIA-MODULUS](https://www.dropbox.com/scl/fi/rqbuqbijxi9fedzaoiy1n/MODULUS_NVIDIA.pptx?rlkey=iumhh62o6pvae7lnkj54dbg5r&dl=0)
 
 
--->
 
 [Project list](Project_list.pdf)
 
