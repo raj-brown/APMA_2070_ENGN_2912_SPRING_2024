@@ -131,7 +131,7 @@ Providence RI 02906
  [ADD\_ON:FOURIER\_REVIEW](https://www.dropbox.com/s/td0alw980o6kv6n/Lecture_10_Fourier_Add_on.pptx?dl=0) [Jupyter\_Notebook\_Fourier](Lecture_10_Notebook/fourier_example.ipynb)
 -->
 
-**Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 8, 2024)](https://www.dropbox.com/s/c9reg4t51vnucr9/Lecture_11_implementation_PINNS_DeepXDE.pptx?dl=0) [Video](https://www.dropbox.com/s/7djuy296vqs0hbx/Lecture_11_DeepXDE.mp4?dl=0) [Jupyter\_Notebook](Lecture_11_Notebook/deepXde.ipynb) [DATA\_FOR\_DEEPONET](https://www.dropbox.com/sh/dkmn84nccqcbuts/AAC9gunsRcCzfv4ETrTm56cWa?dl=0)
+**Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 8, 2024)](https://www.dropbox.com/scl/fi/0irba2lenid6b62alvyr0/Lecture_11_implementation_PINNS_DeepXDE.pptx?rlkey=bsbhlo7wruiqwuc0x0mbijtek&dl=0)[Jupyter\_Notebook](Lecture_11_Notebook/deepXde.ipynb) [DATA\_FOR\_DEEPONET](https://www.dropbox.com/sh/dkmn84nccqcbuts/AAC9gunsRcCzfv4ETrTm56cWa?dl=0)
 
 <!--
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
