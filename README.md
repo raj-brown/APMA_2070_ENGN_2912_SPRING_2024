@@ -122,12 +122,11 @@ Providence RI 02906
 
 **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (April 1, 2024)](https://www.dropbox.com/scl/fi/61cabi0hebfl0ol5jm4tf/Lecture-9-pinns-II.pptx?rlkey=6nr76u7kwcqmnv2ydueuqao8j&dl=0) 
 
-<!--
-## Module III: Neural Operators
 
-**Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 5, 2023)](https://www.dropbox.com/s/jl4yjeao8jvxkm7/Lecture_10_DeepONet.pptx?dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
+## Module III: Neural Operators
+**Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 15, 2024)](https://www.dropbox.com/scl/fi/0irba2lenid6b62alvyr0/Lecture_11_implementation_PINNS_DeepXDE.pptx?rlkey=bsbhlo7wruiqwuc0x0mbijtek&dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
  [ADD\_ON:FOURIER\_REVIEW](https://www.dropbox.com/s/td0alw980o6kv6n/Lecture_10_Fourier_Add_on.pptx?dl=0) [Jupyter\_Notebook\_Fourier](Lecture_10_Notebook/fourier_example.ipynb)
--->
+
 
 **Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 8, 2024)](https://www.dropbox.com/scl/fi/0irba2lenid6b62alvyr0/Lecture_11_implementation_PINNS_DeepXDE.pptx?rlkey=bsbhlo7wruiqwuc0x0mbijtek&dl=0) [Jupyter\_Notebook](Lecture_11_Notebook/deepXde.ipynb) [DATA\_FOR\_DEEPONET](https://www.dropbox.com/sh/dkmn84nccqcbuts/AAC9gunsRcCzfv4ETrTm56cWa?dl=0)
 
