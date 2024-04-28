@@ -133,9 +133,9 @@ Providence RI 02906
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
 
 **Lecture 12: Machine Learning using Multi-Fidelity Data** [Slides: (April 22, 2024)](https://www.dropbox.com/scl/fi/trxbbk9gy6u7jnyo83jq0/Lecture_12_Multi-fidelity.pptx?rlkey=h6mohyihxr35nsusw9nc5v10b&dl=0) [Jupyter\_Notebook](Lecture_12_Notebook/multi_fidelity_notbook.ipynb)
-<!--
-**Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning** [Slides: (April 26, May 3, 2023)](https://www.dropbox.com/scl/fi/ibyb1baqgs3dph1jt79hy/Lecture_13_UQ.pptx?dl=0&rlkey=9eiwy8r28ekndwfih55qntmuj) [Jupyter\_Notebook](Lecture_13_Notebook/neural_uq.ipynb) [Slides: Neural\_UQ](https://www.dropbox.com/s/04kvh4d4vtpadz6/Lecture_12_ADD_ON_NeuralUQ.pptx?dl=0) [Neural\_UQ\_PT\_MODEL](https://www.dropbox.com/sh/8mzjvr3dj5j2u1e/AAAUEi6sCxZyRpdhMzoJXLBia?dl=0) [DATA\_Neural\_UQ](https://www.dropbox.com/sh/8913w72bkjvmia9/AACpQJdl4-_LUQNUmmRjcg6Fa?dl=0)
--->
+
+**Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning** [Slides: (April 29, 2024)](https://www.dropbox.com/scl/fi/btioi6rkpvqf6bmcl7rpu/Lecture_13_UQ.pptx?rlkey=b7ct5pd9d2ykoy59tu0gzssc5&dl=0) [Jupyter\_Notebook](Lecture_13_Notebook/neural_uq.ipynb) [Slides: Neural\_UQ](https://www.dropbox.com/scl/fi/enwkop5hdng3tc7ejtz2z/Lecture_13_ADD_ON_NeuralUQ.pptx?rlkey=m0nzk6gleb3q1xv5eny38pgzc&dl=0)
+
 
 ## Advanced Topics
 
