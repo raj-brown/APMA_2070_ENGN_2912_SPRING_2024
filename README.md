@@ -141,6 +141,10 @@ Providence RI 02906
 
 1. **Multi-GPU Scientific Machine Learning** [Slides: (May 6, 2024)](https://www.dropbox.com/scl/fi/79tjobb4tft6n8i88tyc0/Lecture_11_MULTI-GPU_SCIML.pptx?rlkey=hqv8t9c7jg4iaya1874u1s1ky&dl=0) [Python Code](Advanced_Topics) [Slides:NCCL](https://www.dropbox.com/scl/fi/5xdqa4fn90l95m2luobly/Lecture_11_NCCL.pdf?rlkey=v1f9emhdoa4extrnc45k1qq38&dl=0)[Slides: NVIDIA-MODULUS](https://www.dropbox.com/scl/fi/rqbuqbijxi9fedzaoiy1n/MODULUS_NVIDIA.pptx?rlkey=iumhh62o6pvae7lnkj54dbg5r&dl=0)
 
+## Template for Project Presentation
+
+[Example for Project Presntation](Example_Project_PPT/example_ppt_final_project.pdf)
+
 
 
 [Project list](Project_list.pdf)
