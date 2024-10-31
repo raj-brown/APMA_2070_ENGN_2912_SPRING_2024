@@ -1,4 +1,4 @@
-# APMA-2070 and ENGN 2912V: Deep Learning for Scientistis and Engineers
+# APMA-2070: Deep Learning for Scientistis and Engineers
 
 The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
 
@@ -15,18 +15,11 @@ Please read through this
 
 
 # Instructors  
-1. [Prof. George Em Karniadakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en&oi=ao)
-2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
+1. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
+
+
 
 # Office Hours  
-Prof. George Em Karniadakis: Wednesday: 3.00 PM - 5.30 PM  
-Room No: 304  
-Division of Applied Mathematics   
-170 Hope St   
-Providence RI 02906   
-Email: <george_karniadakis@brown.edu>  
-
-
 Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
 Room No: 308    
 Division of Applied Mathematics     
@@ -34,21 +27,11 @@ Division of Applied Mathematics
 Providence RI 02906   
 Email: <khemraj_shukla@brown.edu>    
 
-
-
-
-
 # TAs
 Aniruddha Bora  
 Email: <aniruddha_bora@brown.edu>  
 
-Nazanin Ahmadi  
-Email: <nazanin_ahmadi_daryakenari@brown.edu>
-
-
-
-## 
-
+##
 
 # Syllabus, Lectures and Codes 
 
@@ -83,10 +66,10 @@ Providence RI 02906
 ## Module I: Basics 
 
 **Lecture 1 : Introduction** [Slides: (Jan 29,2024)](https://www.dropbox.com/scl/fi/rzyza1r7folp7rkcwo9hg/Lecture_01_Introduction.pptx?rlkey=hu5um9r6pmpyeo0i0ej863u1h&dl=0)  
-[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/15/2024, 11:59 PM ET
+[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/15/2025, 11:59 PM ET
 
 
-**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
+**Lecture 2 : A primer on Python, NumPy, SciPy, MATLAB and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2024, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 5, Feb 12, 2024)](https://www.dropbox.com/scl/fi/1bpqfspvwwwh8gf6jddms/Lecture_03_Deep_Neural_Networks.pptx?rlkey=1sxh6oz5490pplx73jqy8bb0c&dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
